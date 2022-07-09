@@ -52,7 +52,7 @@ var listPagesViewModel= [
     ),
   ),
   PageViewModel(title: "Enjoy Shopping",
-    body: "Search for your favourite items, and SHOP NOW!!",
+    body: "Search for your favourite items, nd SHOP NOW!!",
     image:Image( image:AssetImage('assets/online_shop.jpg')
 
 
